@@ -1,2 +1,15 @@
 # Kütüphane Otomasyonu
 IDE olarak Netbeans, arayüz için JavaSwing, veri tabanı olarak ise MySQL kullandım.
+![Screenshot_1](https://user-images.githubusercontent.com/87015540/149121211-a847b0f2-758d-4055-bdd5-3858f38321b3.png)
+![Screenshot_2](https://user-images.githubusercontent.com/87015540/149121249-52de1754-dc19-45c8-8571-aee0933ac3a8.png)
+![Screenshot_3](https://user-images.githubusercontent.com/87015540/149121267-35dbb9e7-3f38-418c-9ed0-3d164ffd34c9.png)
+![Screenshot_4](https://user-images.githubusercontent.com/87015540/149121270-cd8d5afe-4a43-4461-9e29-9e1fec29321d.png)
+![Screenshot_5](https://user-images.githubusercontent.com/87015540/149121289-23e0c5d1-863b-4732-abef-236f9e15762b.png)
+![Screenshot_6](https://user-images.githubusercontent.com/87015540/149121297-14175a1a-8e8f-47df-a19a-8bb37e7d0b24.png)
+![Screenshot_7](https://user-images.githubusercontent.com/87015540/149121303-0a4785e3-04c3-4853-99cc-60f1df8250f8.png)
+![Screenshot_8](https://user-images.githubusercontent.com/87015540/149121306-f63eb829-bbe0-4abf-ae03-2e0278f7fcc6.png)
+![Screenshot_9](https://user-images.githubusercontent.com/87015540/149121308-e1bc9404-6ef4-40ad-9ed5-316c2deaf4a9.png)
+![Screenshot_10](https://user-images.githubusercontent.com/87015540/149121325-8c8e1f4b-ffa3-4d24-93e2-09eaa48eb8a3.png)
+![Screenshot_12](https://user-images.githubusercontent.com/87015540/149121350-bc168284-71b2-4cb4-85cf-23722cf9904f.png)
+![Screenshot_13](https://user-images.githubusercontent.com/87015540/149121354-8a9c1dc8-688d-4a02-9f56-be504bbf336a.png)
+![Screenshot_11](https://user-images.githubusercontent.com/87015540/149121359-3f5905ef-2d51-4fed-a90a-3c089f5adb2a.png)
